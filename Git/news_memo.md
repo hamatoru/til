@@ -34,3 +34,8 @@ https://news.biglobe.ne.jp/it/1019/imm_231019_0500967663.html
 https://toyokeizai.net/articles/-/672938
  - バルミューダ､スマホ事業｢スピード撤退｣の凄さ<br>
  判断が早くてすごい！　ヤバいと思ったらすぐに引くのはいいですね。続けてても赤字ですし
+
+## 10/23
+https://www.itmedia.co.jp/news/articles/2310/23/news149.html
+ - 楽天モバイル、初の「プラチナバンド」獲得　2024年中のサービス開始目指す<br>
+楽天は巻き返せるのだろうか？
