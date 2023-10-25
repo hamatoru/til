@@ -39,3 +39,8 @@ https://toyokeizai.net/articles/-/672938
 https://www.itmedia.co.jp/news/articles/2310/23/news149.html
  - 楽天モバイル、初の「プラチナバンド」獲得　2024年中のサービス開始目指す<br>
 楽天は巻き返せるのだろうか？
+
+## 10/25
+https://www.itmedia.co.jp/news/articles/2310/25/news109.html
+ - ヤフコメをAIで要約　GPT-4活用　「Yahoo!ニュース」新機能<br>
+ AIの時代だなぁ　やっぱりこういったところに使うのはいいですね
