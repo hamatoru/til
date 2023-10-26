@@ -44,3 +44,8 @@ https://www.itmedia.co.jp/news/articles/2310/23/news149.html
 https://www.itmedia.co.jp/news/articles/2310/25/news109.html
  - ヤフコメをAIで要約　GPT-4活用　「Yahoo!ニュース」新機能<br>
  AIの時代だなぁ　やっぱりこういったところに使うのはいいですね
+
+## 10/26
+https://www.itmedia.co.jp/news/articles/2310/26/news133.html
+ - あなたの声が森川智之ボイスに　AIボイスチェンジャー公開　“AIひろゆき”提供元から<br>
+ こちらもAI。悪用されないか心配ですね(笑)
