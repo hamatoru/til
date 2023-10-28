@@ -49,3 +49,8 @@ https://www.itmedia.co.jp/news/articles/2310/25/news109.html
 https://www.itmedia.co.jp/news/articles/2310/26/news133.html
  - あなたの声が森川智之ボイスに　AIボイスチェンジャー公開　“AIひろゆき”提供元から<br>
  こちらもAI。悪用されないか心配ですね(笑)
+
+## 10/28
+https://www.itmedia.co.jp/news/articles/2310/27/news168.html
+ - 「渋谷のハロウィーンはバーチャルで」と長谷部区長<br>
+去年くらいからKDDIがやっていたVRのやつですね。毎年学習しない事故が多発するのでいいと思います
