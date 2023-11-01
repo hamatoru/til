@@ -54,3 +54,8 @@ https://www.itmedia.co.jp/news/articles/2310/26/news133.html
 https://www.itmedia.co.jp/news/articles/2310/27/news168.html
  - 「渋谷のハロウィーンはバーチャルで」と長谷部区長<br>
 去年くらいからKDDIがやっていたVRのやつですね。毎年学習しない事故が多発するのでいいと思います
+
+## 11/2
+https://www.itmedia.co.jp/news/articles/2310/31/news196.html
+ - ドコモグループもスターリンク提供へ　年内めど<br>
+衛星ブロードバンド！　ついに空まで来ましたか
