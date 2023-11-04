@@ -59,3 +59,8 @@ https://www.itmedia.co.jp/news/articles/2310/27/news168.html
 https://www.itmedia.co.jp/news/articles/2310/31/news196.html
  - ドコモグループもスターリンク提供へ　年内めど<br>
 衛星ブロードバンド！　ついに空まで来ましたか
+
+## 11/4
+https://www.itmedia.co.jp/news/articles/2311/02/news120.html
+ - アンカー子会社、ペットロボットを発売　ChatGPTモードで会話も<br>
+ ついにペットロボットにもAIが…　素晴らしいですね
