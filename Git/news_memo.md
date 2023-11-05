@@ -64,3 +64,7 @@ https://www.itmedia.co.jp/news/articles/2310/31/news196.html
 https://www.itmedia.co.jp/news/articles/2311/02/news120.html
  - アンカー子会社、ペットロボットを発売　ChatGPTモードで会話も<br>
  ついにペットロボットにもAIが…　素晴らしいですね
+
+## 11/5
+https://www.itmedia.co.jp/news/articles/2311/05/news031.html
+ - 
