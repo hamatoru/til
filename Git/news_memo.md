@@ -68,3 +68,8 @@ https://www.itmedia.co.jp/news/articles/2311/02/news120.html
 ## 11/5
 https://www.itmedia.co.jp/news/articles/2311/05/news031.html
  - 
+
+## 11/6
+https://www.itmedia.co.jp/news/articles/2307/04/news001.html
+ - AWS初心者がデータ保存～分析に挑戦　「Amazon S3」の活用法　BIサービス連携までやってみた<br>
+ AWSのS3は、比較的わかりにくいことが多かったので、大変参考になります！
