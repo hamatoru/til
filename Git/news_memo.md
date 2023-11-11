@@ -78,3 +78,6 @@ https://www.itmedia.co.jp/news/articles/2307/04/news001.html
 https://www.itmedia.co.jp/news/articles/2311/08/news134.html
  - LINE「大規模リニューアル」へ　ホームに検索・ニュースなどYahoo!との連携強化<br>
  ついに大型アップデート！　ECやニュース系に力入れてく方向性なんですね
+
+## 11/11
+https://www.itmedia.co.jp/news/articles/2311/10/news122.html
